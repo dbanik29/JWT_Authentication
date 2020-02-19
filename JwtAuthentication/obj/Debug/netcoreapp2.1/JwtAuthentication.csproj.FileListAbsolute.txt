@@ -1,0 +1,16 @@
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\appsettings.json
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.deps.json
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.runtimeconfig.json
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.runtimeconfig.dev.json
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.dll
+F:\A\JwtAuthentication\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.pdb
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.csprojAssemblyReference.cache
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.RazorAssemblyInfo.cache
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.RazorAssemblyInfo.cs
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.AssemblyInfoInputs.cache
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.AssemblyInfo.cs
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.RazorTargetAssemblyInfo.cache
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.dll
+F:\A\JwtAuthentication\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.pdb
